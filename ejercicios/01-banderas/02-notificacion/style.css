@@ -1,0 +1,49 @@
+.container{
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    margin: 0px auto;
+    inline-size: center;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px lightgrey;
+    box-sizing: none;
+    padding-left: 60px;
+    padding-top: 15px;
+    position: relative;
+}
+
+.caja{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    transform: translateY(-30%);
+
+}
+
+.campana{
+    font-size: 50px;
+}
+
+.titulo{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+}
+
+.texto{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+}
+
+#boton{
+    background: rgb(2,0,36);
+background: linear-gradient(283deg, rgba(2,0,36,1) 0%, rgba(87,124,255,1) 50%);
+    border-radius: 5px;
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    color: white;
+}
+
+.celeste{
+    color: #577cff;
+}

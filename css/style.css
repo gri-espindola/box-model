@@ -8,14 +8,14 @@ section{
     float: left;
 }
 
-.caja{
+/*.caja{
     clear: both;
-    /*position: fixed;
+    position: fixed;
     left: 600px;
     border-radius: 50%;
 }*/
 
-/*.caja-padre{
+/*.caja-padre {
    width: 250px;
     height: 250px;
     background-color: black;

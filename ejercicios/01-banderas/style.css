@@ -1,21 +1,151 @@
-.banderas{
+
+
+/*.bandera-argentina .bandera-alemania .bandera-rusia{ 
     width: 300px;
     height: 200px;
-    margin: 5px auto;
-    border: 1px solid black;
-}
+    margin: 30px;
+    border: 5px solid black;
+    
+}*/
 
 .franja-celeste{
-    background-color: lightblue; 
-    width: 60px;
-    height: 33,3px;
+    background-color: lightblue;
+    height: 70px;
 
 }
 
 .franja-blanca{
     background-color: white;
+    height: 60px;
 }
 
-.bandera-nigeria{
+.franja-azul{
+    background-color: blue;
+    height: 70px;
+}
+
+.franja-roja{
+    background-color: red;
+    height: 70px;
+}
+
+.franja-negra{
+    background-color: black;
+    height: 70px;
+}
+
+.franja-amarilla {
+    background-color: yellow;
+    height: 70px;
+}
+
+.bandera-argentina{
+    width: 300px;
+    height: 200px;
+    border: 5px solid black;
+    margin:30px auto;
+}
+
+.bandera-rusia{
+    width: 300px;
+    height: 200px;
+    border: 5px solid black;
+    margin: 30px auto;
+}
+
+.bandera-alemania{
+    width: 300px;
+    height: 200px;
+    border: 5px solid black;
+    margin: 30px auto;
+}
+
+.bandera-nigeria {
+    width: 300px;
+    height: 200px;
+    margin: 30px auto;
+    border: 5px solid black;
     
+ 
+
+}
+
+.bandera-francia{
+    width: 300px;
+    height: 200px;
+    margin-bottom: 30px;
+    border: 5px solid black;
+    margin: 30px auto;
+  
+    
+}
+
+.bandera-peru{
+    width: 300px;
+    height: 200px;
+    margin: 30px auto;
+    border: 5px solid black;
+  
+}
+
+
+.franja-verde{
+    background-color: green;
+    width: 100px;
+    height: 200px;
+    float: left;
+
+}
+
+.franja-blanca-nigeria{
+    background-color: white;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+
+.franja-azulf{
+    background-color: blue;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+
+.franja-blancaf{
+    background-color: white;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+
+.franja-rojaf{
+    background-color: red;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+
+.franja-rojap{
+    background-color: red;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+
+.franja-blancap{
+    background-color: white;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+
+.franja-rojap{
+    background-color: red;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+
+.centrar{
+   position: relative;
 }

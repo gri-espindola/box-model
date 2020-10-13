@@ -1,0 +1,77 @@
+.container{
+    background-color: #acd0a7;
+}
+
+.caja-madre{
+    position: relative;
+}
+.caja{
+    background-color: white;
+    width: 250px;
+    height: 350px;
+    margin: 0px auto;
+    inline-size: center;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px lightslategray;
+    box-sizing: none;
+    padding: 20px 10px
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    /*font-family: 'Karla', sans-serif;*/
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-direction: column;
+    
+}
+.titulo{
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.texto{
+    color: lightslategrey;
+    text-align: center;
+}
+
+.manzana{
+    width: 200px;
+    height: 25px;
+    margin: 5 px auto;
+    inline-size: center;
+    border-radius: 10px;
+    box-shadow: 0 5px 50px;
+    box-sizing: none;
+    justify-content: center;
+}
+
+.banana{
+    width: 200px;
+    height: 25px;
+    margin: 5 px auto;
+    inline-size: center;
+    border-radius: 10px;
+    box-shadow: 0 5px 50px;
+    box-sizing: none;
+}
+
+.durazno{
+    width: 200px;
+    height: 25px;
+    margin: 5 px auto;
+    inline-size: center;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+
+.frutilla{
+    width: 200px;
+    height: 25px;
+    margin: 5 px auto;
+    inline-size: center;
+    border-radius: 10px;
+    box-shadow: 0 5px 50px;
+    box-sizing: none;
+}
